@@ -1,0 +1,2 @@
+# RunningCat
+This game has created for a reasarch porpose in Koç University. Aim of this game was to take data from an excel csv file. This game is 2 player platfomr runner game each player presses a button to take the turn. And in another excel csv file players data is stored after the playing section ends. Playing section finishes after 4 minutes. Time can be changed in unity. Game is made in unity.
